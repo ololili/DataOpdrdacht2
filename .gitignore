@@ -126,3 +126,6 @@ ui-tests/playwright-report
 
 # VSCode
 .vscode
+
+# Large data file
+US_Accidents_June20*
