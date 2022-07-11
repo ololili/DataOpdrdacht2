@@ -129,3 +129,6 @@ ui-tests/playwright-report
 
 # Large data file
 US_Accidents_June20*
+
+#Jason notebook test
+ExploringData_Jason.ipynb
